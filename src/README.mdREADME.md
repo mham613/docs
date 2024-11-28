@@ -11,8 +11,18 @@ We used to organize our code more by role. Client, stylesheets, server middlewar
 Subjects do not need every element below. Not every element needs to be a folder. A subject folder looks like:
 
 ```
+src/README.md
 src/
   xsubject/
+    README.md
+    docs/
+    lib/
+    middleware/
+    pages/
+    components/
+    stylesheets/
+    scripts/
+    tests/README.md  xsubject/
     README.md
     docs/
     lib/
